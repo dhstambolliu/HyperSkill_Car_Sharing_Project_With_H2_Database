@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 8, 7
+- text: 4, 5, 3, 8, 6, 2, 7
+- text: 4, 5, 3, 2
+- text: 4, 5, 3, 6, 2
+- text: 8, 6, 7
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2417#comment
+status: Solved
+record: -1

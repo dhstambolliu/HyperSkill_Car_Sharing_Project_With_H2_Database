@@ -1,0 +1,10 @@
+<h2>Combine filters</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Given a stream of integers named <code class="language-java">intStream</code>.</p> 
+  <p>Another stream is obtained by applying three filter operations sequentially:</p> 
+  <pre><code class="language-java">IntStream resultStream = intStream.filter(n -&gt; n &gt; 10).filter(n -&gt; n &lt; 20).filter(n -&gt; n != 15);</code></pre> 
+  <p>How can you combine these operations to always get the same result?</p>
+ </body>
+</html>

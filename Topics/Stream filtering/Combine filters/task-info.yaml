@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: intStream.filter(n -&gt; n &gt; 10 || n &lt; 20 || n != 15)
+- text: intStream.filter(n -&gt; n &gt; 10 || n &lt; 20 &amp;&amp; n != 15)
+- text: intStream.filter(n -&gt; n &lt; 10 &amp;&amp; n &gt; 20 &amp;&amp; n == 15)
+- text: intStream.filter(n -&gt; n &lt; 10 || n &gt; 20 || n == 15)
+- text: intStream.filter(n -&gt; n &gt; 10 &amp;&amp; n &lt; 20 &amp;&amp; n != 15)
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2419#comment
+status: Solved
+record: -1

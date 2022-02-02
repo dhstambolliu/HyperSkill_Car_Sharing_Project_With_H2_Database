@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: an instance method of a particular object
+- text: a class
+- text: a constructor
+- text: a static method
+- text: an instance method of an arbitrary object of a particular type
+- text: a static method of a class through an instance of the class
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3344#comment
+status: Solved
+record: -1

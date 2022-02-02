@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-classes-java" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-classes-java.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-classes-java.test~1" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-classes-java.test~2" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-generated-sources-annotationProcessor-java" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-generated-sources-annotationProcessor-java.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-generated-sources-annotationProcessor-java.test~1" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-generated-sources-annotationProcessor-java.test~2" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-generated-sources-headers-java" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-generated-sources-headers-java.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-generated-sources-headers-java.test~1" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-generated-sources-headers-java.test~2" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-reports-tests" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-reports-tests.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-reports-tests.test~1" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-reports-tests.test~2" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-test-results" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-test-results.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-test-results.test~1" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-test-results.test~2" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-tmp" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-tmp.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-tmp.test~1" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task-build-tmp.test~2" target="17" />
+      <module name="Car Sharing.Car_Sharing.Car_Sharing-task.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Anonymous_classes-And_always_these_rules.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Anonymous_classes-Capture_variables.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Anonymous_classes-Find_a_correct_syntax.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Anonymous_classes-Implement_Runnable.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Anonymous_classes-Single_method.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Anonymous_classes-String_reverser.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Anonymous_classes-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Anonymous_classes-What_about_context.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Calling_a_method-Abs_method.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Calling_a_method-Area_of_parallelogram.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Calling_a_method-Call_me_awesome.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Calling_a_method-Correct_names_for_methods.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Calling_a_method-Method_invocation.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Calling_a_method-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comments-Incorrect_comments.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comments-Printing_only_the_longest_line.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comments-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comparable-Implement_comparing_by_additional_fields.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comparable-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comparator-Comparing_numbers.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comparator-Most_valuable_items.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comparator-Multiple_fields.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comparator-Odd_and_even.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comparator-Reverse_sorting.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comparator-Sort_users.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Comparator-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Default_methods-Add_new_default_method.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Default_methods-Diamond_problem.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Default_methods-Implement_a_default_method.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Default_methods-Resolve_a_diamond_problem.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Default_methods-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Default_methods-What_is_a_result.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Default_methods-What_is_the_reason_for_default_methods.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams-A_sorted_stream.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams__1_-A_sorted_stream.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Count_passwords.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Create_a_stream_from_a_list.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Finding_max_and_min_elements.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Intermediate_operations.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Long_ranges.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Print_elements_of_a_stream.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Statements_about_stream_operations.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Statements_about_streams.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_interfaces-An_invalid_way_to_create_a_functional_interface.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_interfaces-Built-in_classes.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_interfaces-Statements.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_interfaces-Ternary_predicate.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_interfaces-The_requirement.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Functional_interfaces-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Lambda_expressions-Apply_function_to_all_elements.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Lambda_expressions-Creating_a_closure.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Lambda_expressions-Expression_closure.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Lambda_expressions-Higher-order_functions.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Lambda_expressions-Max_of_two_integers.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Lambda_expressions-Next_even_number.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Lambda_expressions-Parts_of code.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Lambda_expressions-Production_of_all_numbers_in_the_range.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Lambda_expressions-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Map_and_flatMap-Sorting_the_absolute_values.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Map_and_flatMap-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Method_references-A_method_reference.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Method_references-All_correct_method_references.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Method_references-Ascending_and_descending_sorting.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Method_references-Kinds_of_method_references.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Method_references-Replace_the_lambda_expression_with_a_method_reference.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Method_references-Syntax_of_method_references.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Method_references-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Optional-A_suitable_method.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Optional-Avoiding_exceptions.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Optional-Check_an_Optional_value.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Optional-Create_an_Optional_value.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Optional-The_address_book.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Optional-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Reduction_methods-Range_quadratic_sum.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Reduction_methods-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Stream_filtering-Bad_words_detecting.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Stream_filtering-Check_if_a_number_is_prime.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Stream_filtering-Combine_filters.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Stream_filtering-Famous_programmers.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Stream_filtering-Numbers.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Stream_filtering-Numbers_filtering.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Stream_filtering-Omitting_long_strings.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Stream_filtering-Statements.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-Stream_filtering-Theory.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-The_Collections_Framework_overview-A_package.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-The_Collections_Framework_overview-Blacklist.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-The_Collections_Framework_overview-Collection_interfaces.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-The_Collections_Framework_overview-Collections_properties.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-The_Collections_Framework_overview-Creating_instances.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-The_Collections_Framework_overview-Extra_methods.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-The_Collections_Framework_overview-Inheritance_of_standard_collections.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-The_Collections_Framework_overview-Root_interfaces.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-The_Collections_Framework_overview-Squares_list.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-The_Collections_Framework_overview-Supported_collections.test" target="17" />
+      <module name="Car Sharing.Car_Sharing.Topics-The_Collections_Framework_overview-Theory.test" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-classes-java" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-classes-java.test" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-generated-sources-annotationProcessor-java" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-generated-sources-annotationProcessor-java.test" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-generated-sources-headers-java" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-generated-sources-headers-java.test" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-reports-tests" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-reports-tests.test" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-test-results" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-test-results.test" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-tmp" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task-build-tmp.test" target="17" />
+      <module name="Car_Sharing.Car_Sharing-task.test" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-An_anonymous_class_with_three_methods" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-An_anonymous_class_with_three_methods.test" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-And_always_these_rules" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-And_always_these_rules.test" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-Capture_variables" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-Capture_variables.test" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-Find_a_correct_syntax" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-Find_a_correct_syntax.test" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-Implement_Runnable" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-Implement_Runnable.test" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-Single_method" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-Single_method.test" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-String_reverser" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-String_reverser.test" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-What_about_context" target="17" />
+      <module name="Car_Sharing.Topics-Anonymous_classes-What_about_context.test" target="17" />
+      <module name="Car_Sharing.Topics-Branching_statements-Even_or_odd" target="17" />
+      <module name="Car_Sharing.Topics-Branching_statements-Even_or_odd.test" target="17" />
+      <module name="Car_Sharing.Topics-Branching_statements-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Branching_statements-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Abs_method" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Abs_method.test" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Area_of_parallelogram" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Area_of_parallelogram.test" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Call_me_awesome" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Call_me_awesome.test" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Correct_names_for_methods" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Correct_names_for_methods.test" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Method_invocation" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Method_invocation.test" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Calling_a_method-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Comments-Incorrect_comments" target="17" />
+      <module name="Car_Sharing.Topics-Comments-Incorrect_comments.test" target="17" />
+      <module name="Car_Sharing.Topics-Comments-Printing_only_the_longest_line" target="17" />
+      <module name="Car_Sharing.Topics-Comments-Printing_only_the_longest_line.test" target="17" />
+      <module name="Car_Sharing.Topics-Comments-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Comments-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Comparable-Implement_comparing_by_additional_fields" target="17" />
+      <module name="Car_Sharing.Topics-Comparable-Implement_comparing_by_additional_fields.test" target="17" />
+      <module name="Car_Sharing.Topics-Comparable-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Comparable-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Comparing_numbers" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Comparing_numbers.test" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Most_valuable_items" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Most_valuable_items.test" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Multiple_fields" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Multiple_fields.test" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Odd_and_even" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Odd_and_even.test" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Reverse_sorting" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Reverse_sorting.test" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Sort_users" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Sort_users.test" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Comparator-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-Add_new_default_method" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-Add_new_default_method.test" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-Diamond_problem" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-Diamond_problem.test" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-Implement_a_default_method" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-Implement_a_default_method.test" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-Resolve_a_diamond_problem" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-Resolve_a_diamond_problem.test" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-What_is_a_result" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-What_is_a_result.test" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-What_is_the_reason_for_default_methods" target="17" />
+      <module name="Car_Sharing.Topics-Default_methods-What_is_the_reason_for_default_methods.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams-A_sorted_stream" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams-A_sorted_stream.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-A_sorted_stream" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-A_sorted_stream.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Count_passwords" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Count_passwords.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Create_a_stream_from_a_list" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Create_a_stream_from_a_list.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Finding_max_and_min_elements" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Finding_max_and_min_elements.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Intermediate_operations" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Intermediate_operations.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Long_ranges" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Long_ranges.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Print_elements_of_a_stream" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Print_elements_of_a_stream.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Statements_about_stream_operations" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Statements_about_stream_operations.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Statements_about_streams" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Statements_about_streams.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Functional_data_processing_with_streams__1_-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-A_lambda_expression_with_seven_arguments.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-An_invalid_way_to_create_a_functional_interface" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-An_invalid_way_to_create_a_functional_interface.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-Built-in_classes" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-Built-in_classes.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-Statements" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-Statements.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-Ternary_predicate" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-Ternary_predicate.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-The_requirement" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-The_requirement.test" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Functional_interfaces-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Apply_function_to_all_elements" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Apply_function_to_all_elements.test" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Creating_a_closure" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Creating_a_closure.test" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Expression_closure" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Expression_closure.test" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Higher-order_functions" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Higher-order_functions.test" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Max_of_two_integers" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Max_of_two_integers.test" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Next_even_number" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Next_even_number.test" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Parts_of code" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Parts_of code.test" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Production_of_all_numbers_in_the_range" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Production_of_all_numbers_in_the_range.test" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Lambda_expressions-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Map_and_flatMap-Sorting_the_absolute_values" target="17" />
+      <module name="Car_Sharing.Topics-Map_and_flatMap-Sorting_the_absolute_values.test" target="17" />
+      <module name="Car_Sharing.Topics-Map_and_flatMap-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Map_and_flatMap-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-A_method_reference" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-A_method_reference.test" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-All_correct_method_references" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-All_correct_method_references.test" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-Ascending_and_descending_sorting" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-Ascending_and_descending_sorting.test" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-Kinds_of_method_references" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-Kinds_of_method_references.test" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-Replace_the_lambda_expression_with_a_method_reference" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-Replace_the_lambda_expression_with_a_method_reference.test" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-Syntax_of_method_references" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-Syntax_of_method_references.test" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Method_references-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Optional-A_suitable_method" target="17" />
+      <module name="Car_Sharing.Topics-Optional-A_suitable_method.test" target="17" />
+      <module name="Car_Sharing.Topics-Optional-Avoiding_exceptions" target="17" />
+      <module name="Car_Sharing.Topics-Optional-Avoiding_exceptions.test" target="17" />
+      <module name="Car_Sharing.Topics-Optional-Check_an_Optional_value" target="17" />
+      <module name="Car_Sharing.Topics-Optional-Check_an_Optional_value.test" target="17" />
+      <module name="Car_Sharing.Topics-Optional-Create_an_Optional_value" target="17" />
+      <module name="Car_Sharing.Topics-Optional-Create_an_Optional_value.test" target="17" />
+      <module name="Car_Sharing.Topics-Optional-The_address_book" target="17" />
+      <module name="Car_Sharing.Topics-Optional-The_address_book.test" target="17" />
+      <module name="Car_Sharing.Topics-Optional-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Optional-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Reduction_methods-Range_quadratic_sum" target="17" />
+      <module name="Car_Sharing.Topics-Reduction_methods-Range_quadratic_sum.test" target="17" />
+      <module name="Car_Sharing.Topics-Reduction_methods-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Reduction_methods-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Bad_words_detecting" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Bad_words_detecting.test" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Check_if_a_number_is_prime" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Check_if_a_number_is_prime.test" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Combine_filters" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Combine_filters.test" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Famous_programmers" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Famous_programmers.test" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Numbers" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Numbers.test" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Numbers_filtering" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Numbers_filtering.test" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Omitting_long_strings" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Omitting_long_strings.test" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Statements" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Statements.test" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Theory" target="17" />
+      <module name="Car_Sharing.Topics-Stream_filtering-Theory.test" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-A_package" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-A_package.test" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Blacklist" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Blacklist.test" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Collection_interfaces" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Collection_interfaces.test" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Collections_properties" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Collections_properties.test" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Creating_instances" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Creating_instances.test" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Extra_methods" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Extra_methods.test" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Inheritance_of_standard_collections" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Inheritance_of_standard_collections.test" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Root_interfaces" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Root_interfaces.test" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Squares_list" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Squares_list.test" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Supported_collections" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Supported_collections.test" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Theory" target="17" />
+      <module name="Car_Sharing.Topics-The_Collections_Framework_overview-Theory.test" target="17" />
+      <module name="Car_Sharing.util" target="17" />
+      <module name="Car_Sharing.util.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Car_Sharing1.Topics-Lambda_expressions-Production_of_all_numbers_in_the_range.main" options="--add-exports java.base/sun.security.util=ALL-UNNAMED" />
+    </option>
+  </component>
+</project>

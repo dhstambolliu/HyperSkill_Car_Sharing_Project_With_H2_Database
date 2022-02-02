@@ -1,0 +1,12 @@
+custom_name: Functional data processing with streams
+content:
+- Theory
+- A sorted stream
+- Statements about stream operations
+- Create a stream from a list
+- Count passwords
+- Intermediate operations
+- Print elements of a stream
+- Statements about streams
+- Long ranges
+- Finding max and min elements

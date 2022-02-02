@@ -1,0 +1,17 @@
+content:
+- Calling a method
+- Default methods
+- Anonymous classes
+- Lambda expressions
+- The Collections Framework overview
+- Branching statements
+- Functional interfaces
+- Method references
+- Comparable
+- Comparator
+- Comments
+- Optional
+- Functional data processing with streams (1)
+- Stream filtering
+- Map and flatMap
+- Reduction methods

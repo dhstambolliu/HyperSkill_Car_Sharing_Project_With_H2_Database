@@ -1,0 +1,19 @@
+<h2>Famous programmers</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Given a list of famous programmers:</p> 
+  <pre><code class="language-java">List&lt;String&gt; famousProgrammers = Arrays.asList(
+        "Linus Torvalds",
+        "John Carmack",
+        "James Gosling",
+        "Joshua Bloch",
+        "Ken Thompson"
+);</code></pre> 
+  <p>The following code counts something using streams:</p> 
+  <pre><code class="language-java">long result = famousProgrammers.stream()
+        .filter(name -&gt; name.startsWith("J"))
+        .count();</code></pre> 
+  <p>The result is ...</p>
+ </body>
+</html>

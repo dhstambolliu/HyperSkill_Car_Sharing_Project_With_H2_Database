@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: It's possible to use two and more filter operations when processing a stream.
+- text: It takes a predicate.
+- text: It's a terminal operation.
+- text: The operation returns a new stream consisting of elements that doesn't match
+    the given predicate.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2420#comment
+status: Solved
+record: -1

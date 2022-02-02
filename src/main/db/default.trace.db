@@ -1,0 +1,6 @@
+2022-02-02 00:20:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found; SQL statement:
+DROP TABLE CUSTOMER [42102-200]
+2022-02-02 00:33:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CUSTOMER" not found; SQL statement:
+DROP TABLE CUSTOMER [42102-200]
